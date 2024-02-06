@@ -1,0 +1,2 @@
+Enter your age:
+Your age is 11,You cannot vote
