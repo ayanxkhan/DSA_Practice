@@ -17,10 +17,10 @@ int main()
     //   cout << s1 << " " << s2;
 
     // therefore we use getline
-    // string name;
-    // cout << "Enter your name:";
-    // getline(cin,name);
-    // cout << name;
+    string name;
+    cout << "Enter your name:";
+    getline(cin,name);
+    cout << name;
 
     return 0;
 }
